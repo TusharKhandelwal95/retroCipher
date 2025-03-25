@@ -1,6 +1,8 @@
-## RetroCipher
+# RetroCipher
 
 RetroCipher is a secure and ephemeral message-sharing application built with React and Tailwind CSS. It allows users to encrypt secret messages and share them via a link (and accompanying QR code) without requiring a backend database. The message can only be decrypted once before it self-destructs.
+
+**Live Preview:** [RetroCipher](https://retro-cipher.vercel.app/)
 
 ## Features
 
@@ -62,4 +64,3 @@ When the recipient opens the link, they can enter the passphrase (if one was use
 
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
 
-# Made with 💛 for secure messaging.
